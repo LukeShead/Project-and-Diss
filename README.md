@@ -20,6 +20,10 @@ To start my research into creating and understaning the process of development, 
 
 
 
+### Android Debug Bridge
+
+The connection between the OS and the Buddy pro is handled through ADB in android studio. The server will be set up in the testing area and will be run on the same device as the client. The Buddy pro will be the Daemon (adbd) in this scenario.
+
 #### quick code test
 
 ```Python
