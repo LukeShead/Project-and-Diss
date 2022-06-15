@@ -8,6 +8,18 @@ To start my research into creating and understaning the process of development, 
 
 ## Buddy SDK and development tools
 
+### TensorFlow
+
+
+
+### Android Studio
+
+
+
+### Buddy Pro SDK
+
+
+
 #### quick code test
 
 ```Python
