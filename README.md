@@ -10,7 +10,7 @@ To start my research into creating and understaning the process of development, 
 
 ### TensorFlow
 
-
+Open source Machine Learning library that handles many functions for creating and calculating the neural network being able to handle the internal hidden layers, this will be used to help the AI chatbot learn and allows streamlining of the functions that might take up more time.
 
 ### Android Studio
 
