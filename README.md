@@ -14,6 +14,36 @@ Open source Machine Learning library that handles many functions for creating an
 
 ### Android Studio
 
+Folder: res/layout
+XML files that describe the
+layout of the UI of the
+application.
+These could be:
+• Layout files for each activity.
+• Layout files used for
+dynamically adapting the
+User Interface.
+
+
+AndroidManifest.xml
+XML file with general
+declarations about your
+application, e.g.:
+• Which version of Android it
+runs on.
+• What security permissions
+it requires.
+• What activities or services it
+consists of
+Declares components
+• Names required libraries
+• Lists permissions required
+• Associates components with intents
+• Says how each intent should be invoked (e.g. by
+the Launcher)
+• Specifies icons and labels for display to the user
+
+
 
 
 ### Buddy Pro SDK
