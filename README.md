@@ -62,4 +62,21 @@ print("a")
 ```
 
 
+## Project Plan (rough at the moment)
 
+### June:
+Research into Buddy Pro SDK,
+Learn Android Studio,
+Research and learn TensorFlow functions to support the learning process,
+Resarch how to integrate the Buddy Pro SDK into the project for robot functionality.
+Keep Github updated
+
+### July:
+Have Android studio app functional by middle of July (potentially have robot already talking)
+Have the Robot running correctly and fully functioning by the end of the month
+Keep Github updated
+
+### August:
+Plan the structure of the dissertation
+Start Dissertation using sources from Github
+Be finished before the end of the month.
