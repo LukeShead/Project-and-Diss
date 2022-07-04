@@ -87,6 +87,9 @@ Be finished before the end of the month.
 ## Project Design
 
 ### Objectives.
+
+Facial recognition
+
 Robot will start to personalise people based off stuff like favourite food, place, hobbies.
 
 Experiements for the thesis, create an interaction with robot.
