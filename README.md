@@ -93,7 +93,6 @@ Experiements for the thesis, create an interaction with robot.
 
 Objectives of what I want to implement
 e.g.
-
 Robot being able to start a conversation.
 
 (optional) recognise a person's face
