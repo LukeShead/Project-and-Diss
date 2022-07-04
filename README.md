@@ -78,6 +78,6 @@ Keep Github updated
 Keep meetups
 
 ### August:
-Plan the structure of the dissertation
-Start Dissertation using sources from Github
+Plan the structure of the dissertation,
+Start Dissertation using sources from Github,
 Be finished before the end of the month.
