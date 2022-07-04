@@ -81,3 +81,8 @@ Keep meetups
 Plan the structure of the dissertation,
 Start Dissertation using sources from Github,
 Be finished before the end of the month.
+
+
+
+## Project Design
+
