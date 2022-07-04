@@ -75,6 +75,7 @@ Keep Github updated
 Have Android studio app functional by middle of July (potentially have robot already talking)
 Have the Robot running correctly and fully functioning by the end of the month
 Keep Github updated
+Keep meetups
 
 ### August:
 Plan the structure of the dissertation
