@@ -86,3 +86,12 @@ Be finished before the end of the month.
 
 ## Project Design
 
+### Objectives.
+Robot will start to personalise people based off stuff like favourite food, place, hobbies.
+
+Experiements for the thesis, create an interaction with robot.
+
+Objectives of what I want to implement
+e.g.
+
+Robot being able to start a conversation.
