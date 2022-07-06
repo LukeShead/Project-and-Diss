@@ -75,27 +75,38 @@ Keep Github updated
 Have Android studio app functional by middle of July (potentially have robot already talking)
 Have the Robot running correctly and fully functioning by the end of the month
 Keep Github updated
-Keep meetups
+Keep meetups with supervisor
 
 ### August:
 Plan the structure of the dissertation,
 Start Dissertation using sources from Github,
 Be finished before the end of the month.
-
-
+Keep Github updated
+Keep meetups with supervisor
 
 ## Project Design
 
-### Objectives.
+### Objectives for the project.
 
-Facial recognition
+Robot will be able to start a conversation with a student
 
-Robot will start to personalise people based off stuff like favourite food, place, hobbies.
+Robot will be able to follow conversations with a student
 
-Experiements for the thesis, create an interaction with robot.
+Robot will be able to add personal insights into a conversations.
 
-Objectives of what I want to implement
-e.g.
-Robot being able to start a conversation.
+Conduct experiements with different students.
+
+Robot able to recognise signs of unhealthy wellbeing
+
+Robot able to offer support and directions for professional help.
+
+### Features for the project.
+
+Buddy robot capable of Facial recognition to preregistered faces. 
+
+Robot will personalise people based off stuff like favourite food, place, hobbies. 
+e.g. Favourite food being banana, robot will recognise that and use it conversations
 
 (optional) Emotion Recognition with the use of TensorFlow.
+
+
