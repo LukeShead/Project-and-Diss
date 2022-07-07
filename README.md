@@ -96,7 +96,7 @@ Robot will be able to add personal insights into a conversations.
 
 Conduct experiements with different students.
 
-Robot able to recognise signs of unhealthy wellbeing
+Robot able to recognise signs of unhealthy wellbeing.
 
 Robot able to offer support and directions for professional help.
 
@@ -108,5 +108,7 @@ Robot will personalise people based off stuff like favourite food, place, hobbie
 e.g. Favourite food being banana, robot will recognise that and use it conversations
 
 (optional) Emotion Recognition with the use of TensorFlow.
+
+(optional) Full environmental navigation.
 
 
