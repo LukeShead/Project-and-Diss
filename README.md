@@ -92,13 +92,13 @@ Robot will be able to start a conversation with a student
 
 Robot will be able to follow conversations with a student
 
-Robot will be able to add personal insights into a conversations.
-
-Conduct experiements with different students.
+Robot will be able to use personal insights in a conversation.
 
 Robot able to recognise signs of unhealthy wellbeing.
 
 Robot able to offer support and directions for professional help.
+
+Conduct experiements with different students for testing.
 
 ### Features for the project.
 
