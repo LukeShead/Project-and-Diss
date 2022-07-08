@@ -77,6 +77,18 @@ Have the Robot running correctly and fully functioning by the end of the month
 Keep Github updated
 Keep meetups with supervisor
 
+July 7th:
+First visit to the robotics lab,
+Getting familiar with the Buddy's functions and software
+Plan for next: Start creation of android app at a base level before coming back into the lab.
+
+App notes:
+
+Must run on Android 9.0 (made a mistake on that already).
+Runs through Java not Kotlin.
+Follow User guide in order to set up the app. 
+Will not be able to test unless the lab is visited.
+
 ### August:
 Plan the structure of the dissertation,
 Start Dissertation using sources from Github,
@@ -102,7 +114,9 @@ Conduct experiements with different students for testing.
 
 ### Features for the project.
 
-Buddy robot capable of Facial recognition to preregistered faces. 
+Buddy robot capable of Facial recognition to preregistered faces.
+
+Creation and completion of an original android app made from scratch
 
 Robot will personalise people based off stuff like favourite food, place, hobbies. 
 e.g. Favourite food being banana, robot will recognise that and use it conversations
