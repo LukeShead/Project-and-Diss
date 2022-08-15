@@ -126,3 +126,10 @@ e.g. Favourite food being banana, robot will recognise that and use it conversat
 (optional) Full environmental navigation.
 
 
+### Setting up the project
+
+To get started with the project I first had to get comfortable with Android Studio, since the BuddyPro uses an android tablet as it's face, using Android Studio in order to create the application would give me a variety of benefits, including built in wi-fi connection and testing with Android Debug Bridge, as well as a visually being able to code with drag and drop features with elements such as the buttons, images or widgets. Which proved extremely useful during.
+
+The first issues I encountered were trying to set up the BUDDYPRO SDK, following the instructions only took me so far, as some of the functions were in pre-built packages, not included in the sdk. This meant that I was unable to interact with the buddypro's functions such as Steering, Facial Expressions and head movement as a base. Eventually I was able to solve this problem by taking an example which usually.
+
+
