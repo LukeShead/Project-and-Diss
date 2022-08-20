@@ -133,3 +133,6 @@ To get started with the project I first had to get comfortable with Android Stud
 The first issues I encountered were trying to set up the BUDDYPRO SDK, following the instructions only took me so far, as some of the functions were in pre-built packages, not included in the sdk. This meant that I was unable to interact with the buddypro's functions such as Steering, Facial Expressions and head movement as a base. Eventually I was able to solve this problem by taking an example provided by the BuddyPro team, and building upon it in order to incorporate my own functions and the Speech API.
 
 
+### Troubles with BrainShop API
+
+One of the first API's I tried was BrainShop, as after looking into some good chatbot API's for Android most websites recommended it, I failed to look into how it allows developers to interact with the API. In Februrary of 2022 they announced that the API would only be available for any 3rd parties, I originally planned to use Google's API but thought using a more specialised version for android would be better, howevever deviating from that plan only caused more issues for myself. In the future I would do more research into a new API, or be more resolute with the original plan.
